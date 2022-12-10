@@ -15,8 +15,9 @@ setTimeout(function() {
 }, 2000);
 
 
-function grettin(name) {
+function gretting(name) {
     console.log(`Hola ${name}`);
 }
 
-setTimeout(grettin, 2000, `CinLo`);
+setTimeout(gretting, 2000, `CinLo`);
+
